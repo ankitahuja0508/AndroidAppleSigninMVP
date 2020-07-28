@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632661650571",
+    "firebase_url": "https://afmapp-e9070.firebaseio.com",
+    "project_id": "afmapp-e9070",
+    "storage_bucket": "afmapp-e9070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632661650571:android:f3cd92e1a6ff0ffb1e388e",
+        "android_client_info": {
+          "package_name": "com.applesigninmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632661650571-6r5thhroif4mcnle9fhjdb69sf2b7pvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgFZ2zq-jSi9prtP0245yWDaGTP9dxQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632661650571-6r5thhroif4mcnle9fhjdb69sf2b7pvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
